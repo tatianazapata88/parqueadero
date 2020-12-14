@@ -1,0 +1,60 @@
+
+.parrafo1{
+    font-size: 20px;
+    color: grey;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.footer{
+    font-size: 15px;
+}
+
+.imagen{
+    height: 390px;
+}
+
+.negritaycolor{
+    font-weight: bold;
+    color: gray;
+    font-size: 25px;
+}
+
+.video{
+    width: 1000px;
+    height: 400px;
+    position: left;
+    
+}
+
+.parrafo{
+    font-style: italic;
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.parrafonegrita{
+    font-style: italic;
+    color: burlywood;
+    font-family: Courier New;
+    font-weight: bold;
+}
+
+.parrafo2{
+    font-style: italic;
+    color: brown;
+    font-family: Cambria;
+}
+
+.imagenpag2{
+    background-image: url(img/imagenGrupopag2.jpg);
+    background-position: top;
+    width: auto;
+    height: 300px;
+}
